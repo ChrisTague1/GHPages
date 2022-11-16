@@ -1,5 +1,6 @@
 {
   "name": "ghpages",
+  "homepage": "https://christague1.github.io/GHPages/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
